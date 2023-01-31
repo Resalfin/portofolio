@@ -1,0 +1,31 @@
+body{
+    min-height: 2000px;
+}
+
+
+.navbar{
+    background-color: #00CBA9;
+}
+
+.jumbotron{
+    padding-top: 2rem;
+    background-color: rgba(0, 255, 204, 0.229);
+}
+#projects{
+    background-color: #00CBA9;
+}
+
+
+.foter{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00CBA9;
+    padding-bottom: 0%;
+}
+.fot{
+    margin-bottom:1rem;
+    margin-top:0rem;
+    font-size: medium;
+}
+
